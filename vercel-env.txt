@@ -1,0 +1,1 @@
+mongodb://sailors406:nDXPUxIgEyZh8J2t@ac-fl1o8id-shard-00-00.hg4ig2t.mongodb.net:27017,ac-fl1o8id-shard-00-01.hg4ig2t.mongodb.net:27017,ac-fl1o8id-shard-00-02.hg4ig2t.mongodb.net:27017/?ssl=true&replicaSet=atlas-cytc1t-shard-0&authSource=admin&appName=Cluster0
